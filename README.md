@@ -7,4 +7,8 @@
 ## Technologies
 Java, Snowball, Jetty, HTML, CSS
 
+## How to run
 
+```bash
+SearchEngine>src>main>java>Driver.java
+```
